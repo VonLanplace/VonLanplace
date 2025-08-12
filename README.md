@@ -35,7 +35,10 @@ Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja expl
    <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
    <img align="center" alt="Gsgs-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Gsgs-Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-   <img align="center" alt="Gsgs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Gsgs-Python" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Icon" height="40" width="40">
+
 <!--
 ## Estudos :mortar_board:
 -->
