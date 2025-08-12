@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, me chamo VonLanplace! 👋
+# Olá, me chamo Lucas Sartorelli ou VonLanplace! 👋
 
 Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja explorando uma nova linguagem de programação, mergulhando em um framework inovador, ou colaborando em projetos.Estou sempre à procura de oportunidades para crescer e me aprofundar na área.
 
