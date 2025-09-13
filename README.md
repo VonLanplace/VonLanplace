@@ -12,19 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, me chamo Lucas Sartorelli! 👋
+# Olá, me chamo Lucas Sartorelli!
 
 Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja explorando uma nova linguagem de programação, mergulhando em um framework inovador, ou colaborando em projetos.Estou sempre à procura de oportunidades para crescer e me aprofundar na área.
 
 ### Estado Atual :earth_americas:
 💻 Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 3/6
 
-## GitHub Stats💫
+## GitHub Stats
+<p align="center">
+  <img   
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
+    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight"
+  >
+  <img 
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact"
+  >
+</p>
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=dracula">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=dracula&layout=compact">
-</div>
+<!--
+___
+
+<p align="center">
+  <img   
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
+    src=
+  >
+  <img 
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block; margin-left: 20px;" 
+    src=
+  >
+</p>
+-->
 
 ## Tools🔨
 
