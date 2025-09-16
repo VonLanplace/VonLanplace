@@ -49,7 +49,7 @@ ___
 ## Tools🔨
 
 <div style="display: inline_block">
-   <img align="center" alt="Gsgs-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg">
+   <img align="center" alt="Gsgs-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
    <img align="center" alt="Gsgs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Neovim Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg">
    <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
@@ -58,6 +58,7 @@ ___
    <img align="center" alt="VS Code Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Gsgs-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 <!--
 ## Estudos :mortar_board:
