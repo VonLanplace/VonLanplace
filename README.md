@@ -1,77 +1,36 @@
-<!--
-**VonLanplace/VonLanplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Lucas Sartorelli! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Olá, me chamo Lucas Sartorelli!
+</div>
 
-Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja explorando uma nova linguagem de programação, mergulhando em um framework inovador, ou colaborando em projetos.Estou sempre à procura de oportunidades para crescer e me aprofundar na área.
+## 🚀 About Me
 
-### Estado Atual :earth_americas:
-💻 Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 3/6
+I am a developer currently studying **System Analysis and Development at FATEC in São Paulo**. As a technology enthusiast, I am driven by a constant search for new challenges—whether that involves mastering a new programming language, diving into innovative frameworks, or collaborating on projects.
 
-<!--
+Currently, I am focusing my studies on **Java** and have a strong interest in **System Security, Docker, and Linux**. I am always looking for opportunities to deepen my expertise and grow professionally within the field.
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img   
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight"
-  >
-  <img 
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact"
-  >
-</p>
+### Current Status 🌎
+💻 Currently pursuing a degree in **System Analysis and Development** at **FATEC Zona Leste** — Semester 4/6
 
--->
+</div>
 
-<!--
 ___
 
-<p align="center">
-  <img   
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-    src=
-  >
-  <img 
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block; margin-left: 20px;" 
-    src=
-  >
-</p>
--->
+<div align="center">
 
-## Tools🔨
+## 🛠 Skills
 
-<div style="display: inline_block">
-   <img align="center" alt="Gsgs-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-   <img align="center" alt="Gsgs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Neovim Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg">
-   <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
-   <img align="center" alt="Gsgs-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-   <img align="center" alt="Gsgs-Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-   <img align="center" alt="VS Code Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Gsgs-Python" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) 
 
+## 🔗 Links
 
-<!--
-## Estudos :mortar_board:
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-m-sartorelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucaspmsartorelli@gmail.com)
 
-##
-
-<div>
-  <a href = "mailto:lucaspmsartorelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-p-m-sartorelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
