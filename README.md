@@ -19,7 +19,10 @@ Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja expl
 ### Estado Atual :earth_americas:
 💻 Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 3/6
 
+<!--
+
 ## GitHub Stats
+
 <p align="center">
   <img   
     style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
@@ -30,6 +33,8 @@ Sou um entusiasta da tecnologia. Constantemente, busco novos desafios, seja expl
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact"
   >
 </p>
+
+-->
 
 <!--
 ___
