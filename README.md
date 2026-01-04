@@ -1,3 +1,7 @@
+ <!--
+**VonLanplace/VonLanplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
+
 <div align="center">
 
 # Hi, I'm Lucas Sartorelli! 👋
@@ -17,6 +21,22 @@ Currently, I am focusing my studies on **Java** and have a strong interest in **
 
 </div>
 
+<!--
+<div align="center">
+  
+## GitHub Stats
+
+  <img
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
+    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight"
+  >
+  <img
+    style="width: 400px; max-width: 40%; height: auto; display: inline-block;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact">
+    
+</div> 
+
+-->
 ___
 
 <div align="center">
