@@ -50,6 +50,7 @@ ___
 
 ## 🔗 Links
 
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=readme)](https://www.canva.com/design/DAGCOTolTfI/ryIFdqEZtXyCfDCaxwDeFg/view)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-m-sartorelli/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucaspmsartorelli@gmail.com)
 
