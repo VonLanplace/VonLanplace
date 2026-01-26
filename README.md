@@ -6,6 +6,8 @@
 
 # Hi, I'm Lucas Sartorelli! 👋
 
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=readme)](https://www.canva.com/design/DAGCOTolTfI/ryIFdqEZtXyCfDCaxwDeFg/view)
+
 </div>
 
 ## 🚀 About Me
@@ -21,22 +23,18 @@ Currently, I am focusing my studies on **Java** and have a strong interest in **
 
 </div>
 
-<!--
 <div align="center">
-  
+
 ## GitHub Stats
 
   <img
     style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight"
-  >
+    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight">
   <img
     style="width: 400px; max-width: 40%; height: auto; display: inline-block;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact">
-    
 </div> 
 
--->
 ___
 
 <div align="center">
@@ -50,7 +48,6 @@ ___
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=readme)](https://www.canva.com/design/DAGCOTolTfI/ryIFdqEZtXyCfDCaxwDeFg/view)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-m-sartorelli/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucaspmsartorelli@gmail.com)
 
