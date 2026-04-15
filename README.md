@@ -27,13 +27,6 @@ Currently, I am focusing my studies on **Java** and have a strong interest in **
 
 ## GitHub Stats
 
-  <img
-  style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-  src="./generated/github-readme-stats.svg">
-  <img
-  style="width: 400px; max-width: 40%; height: auto; display: inline-block;"
-  src="./generated/top-langs.svg">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VonLanplace&theme=tokyonight" />
 
 </div> 
