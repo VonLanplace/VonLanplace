@@ -1,0 +1,33 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente para testar
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Stats
+        uses: teknotic/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # Vamos criar esse token agora
+          username: VonLanplace
+          theme: tokyonight
+          show_icons: true
+          # Aqui você define quais imagens quer gerar
+          include_all_commits: true
+          count_private: true
+          
+      - name: Push to Folder
+        run: |
+          mkdir -p generated
+          mv *.svg generated/ 2>/dev/null || true
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update stats images" || exit 0
+          git push
