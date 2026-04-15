@@ -27,12 +27,7 @@ Currently, I am focusing my studies on **Java** and have a strong interest in **
 
 ## GitHub Stats
 
-  <img
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block;" 
-    src="https://github-readme-stats.vercel.app/api?username=VonLanplace&show_icons=true&theme=tokyonight">
-  <img
-    style="width: 400px; max-width: 40%; height: auto; display: inline-block;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonLanplace&show_icons=true&theme=tokyonight&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VonLanplace&theme=tokyonight" />
 </div> 
 
 ___
