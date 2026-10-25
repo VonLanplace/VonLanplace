@@ -3,8 +3,6 @@
 [![English](https://img.shields.io/badge/English-EN-A7C080?style=flat-square&labelColor=2D353B)](https://github.com/VonLanplace/VonLanplace/blob/main/README.md)
 [![Português](https://img.shields.io/badge/Portugu%C3%AAs-PT--BR-7FBBB3?style=flat-square&labelColor=2D353B)](https://github.com/VonLanplace/VonLanplace/blob/main/README.pt-BR.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D353B&height=210&section=header&text=Lucas%20Sartorelli&fontSize=50&fontColor=A7C080&fontAlignY=35&desc=Java%20Backend%20%7C%20Clean%20Code%20%7C%20Linux%20%26%20FOSS&descSize=16&descAlignY=58&animation=fadeIn" alt="Lucas Sartorelli - Java Backend, Clean Code, Linux and FOSS" width="100%" />
-
 <img src="https://github.com/VonLanplace.png" width="132" alt="Lucas Sartorelli" />
 
 ### Java Backend Developer · ADS Student · Linux & FOSS enthusiast
@@ -49,7 +47,7 @@ open to junior backend roles and open source collaborations
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,rust,kotlin&theme=dark&perline=6" alt="Java, TypeScript, JavaScript, Python, Rust and Kotlin" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,rust,kotlin&theme=dark&perline=6" alt="Java, Python, Rust and Kotlin" />
 
 **Frontend**
 
@@ -58,6 +56,7 @@ open to junior backend roles and open source collaborations
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=2" alt="MySQL and SQLite" />
+<br>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
 **Infrastructure & DevOps**
@@ -88,8 +87,10 @@ open to junior backend roles and open source collaborations
 
 </div>
 
+<!---
 > "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
-
+---!>
+  
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2D353B&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=A7C080&animation=fadeIn" alt="Thanks for visiting" width="100%" />
