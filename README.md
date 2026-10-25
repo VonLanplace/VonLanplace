@@ -7,6 +7,7 @@
 # Hi, I'm Lucas Sartorelli! 👋
 
 [![Resume](https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=readme)](https://www.canva.com/design/DAGCOTolTfI/ryIFdqEZtXyCfDCaxwDeFg/view)
+[![Website](https://img.shields.io/badge/WEBSITE-Visit-A7C080?style=for-the-badge&logo=firefox&logoColor=2D353B)](https://vonlanplace.github.io/)
 
 </div>
 
